@@ -19,3 +19,9 @@
 [![VK](https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/by4igiry)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/optimusmac_)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/optimusmac)
+
+
+### 🛠️ Инструменты
+![Idea](https://img.shields.io/badge/Forge-28A745?style=for-the-badge&logo=intellijidea&logoColor=black)
+[![Telegram](https://w7.pngwing.com/pngs/747/41/png-transparent-intellij-macos-bigsur-icon-thumbnail.png)]
+![IntelliJ IDEA](https://raw.githubusercontent.com/OptimusMac/OptimusMac/main/intellij-idea-logo.png)
