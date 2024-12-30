@@ -1,4 +1,6 @@
-<img src="https://newizv.ru/attachments/003825eeb8b4bab5ef99071f828f5f1c7374455c/store/crop/0/0/1810/1018/500/0/0/2893d28c5cc972bcec8504b877ce563e67258d30371431aacaba7843efcf/1733438132601.webp" width="100%" height="30%" align="center" />
+<img src="https://a.storyblok.com/f/178900/750x422/562612ef4e/ac3c638965d4850ad6152c8f033b801d1675073361_main.jpg/m/filters:quality(95)format(webp)" width="100%" style="display: block; margin-top: 10px; margin-bottom: 10px;" />
+
+
 ## Мой стек технологий
 
 ![Java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=buymeacoffee&logoColor=black)
@@ -23,4 +25,4 @@
 
 
 ### 🛠️ Инструменты
-![IntelliJ IDEA](https://raw.githubusercontent.com/OptimusMac/images/refs/heads/main/IntelliJ_IDEA-white.svg?token=GHSAT0AAAAAAC2BBPMJRAXXMRZAW2PVLFKSZ3SY76Q)
+![IntelliJ IDEA](https://raw.githubusercontent.com/OptimusMac/images/refs/heads/main/IntelliJ_IDEA-white.svg?token=GHSAT0AAAAAAC2BBPMJTBZWFNBKHBMUR5YEZ3SZG6A)
