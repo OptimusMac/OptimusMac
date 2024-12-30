@@ -1,4 +1,4 @@
-##№Мой стек технологий
+###Мой стек технологий
 
 ![Java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-28A745?style=for-the-badge&logo=spring&logoColor=white)
