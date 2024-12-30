@@ -22,4 +22,4 @@
 
 
 ### 🛠️ Инструменты
-![IntelliJ IDEA](https://raw.githubusercontent.com/OptimusMac/images/refs/heads/main/IntelliJ_IDEA-white.svg?token=GHSAT0AAAAAAC2BBPMJMO6CVV36EAVH7XPWZ3SYJJA)
+![IntelliJ IDEA](https://raw.githubusercontent.com/OptimusMac/images/refs/heads/main/IntelliJ_IDEA-white.svg?token=GHSAT0AAAAAAC2BBPMJRAXXMRZAW2PVLFKSZ3SY76Q)
