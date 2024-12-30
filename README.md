@@ -17,6 +17,7 @@
 ![Spigot](https://img.shields.io/badge/Spigot-FF5733?style=for-the-badge&logo=spigotmc&logoColor=black)
 ![Forge](https://img.shields.io/badge/Forge-28A745?style=for-the-badge&logo=condaforge&logoColor=black)
 
+<img width="240" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
 
 ### 🌏 Социальные сети
 [![VK](https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/by4igiry)
@@ -25,4 +26,11 @@
 
 
 ### 🛠️ Инструменты
-![IntelliJ IDEA](https://raw.githubusercontent.com/OptimusMac/images/refs/heads/main/IntelliJ_IDEA-white.svg?token=GHSAT0AAAAAAC2BBPMJTBZWFNBKHBMUR5YEZ3SZG6A)
+![IntelliJ IDEA](https://raw.githubusercontent.com/OptimusMac/images/refs/heads/main/IntelliJ_IDEA-white.svg?token=GHSAT0AAAAAAC2BBPMIRY2V5WUZ5X5QCDIYZ3SZSMQ)
+
+
+<img src="https://github.com/elliottophellia/elliottophellia/blob/main/img/AboutMe-elaina.png?raw=true)" width="100%" style="display: block; margin-top: 10px; margin-bottom: 10px;" />
+
+- **Возраст:** 22 года
+- **Опыт:** 5 лет в программировании
+- **Специализация:** Фриланс-разработчик
