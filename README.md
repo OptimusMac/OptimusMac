@@ -22,6 +22,4 @@
 
 
 ### 🛠️ Инструменты
-![Idea](https://img.shields.io/badge/Forge-28A745?style=for-the-badge&logo=intellijidea&logoColor=black)
-[![Telegram](https://w7.pngwing.com/pngs/747/41/png-transparent-intellij-macos-bigsur-icon-thumbnail.png)]
-![IntelliJ IDEA](https://raw.githubusercontent.com/OptimusMac/OptimusMac/main/intellij-idea-logo.png)
+![IntelliJ IDEA](https://raw.githubusercontent.com/OptimusMac/images/refs/heads/main/IntelliJ_IDEA-white.svg?token=GHSAT0AAAAAAC2BBPMJMO6CVV36EAVH7XPWZ3SYJJA)
