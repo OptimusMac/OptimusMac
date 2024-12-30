@@ -11,3 +11,5 @@
 ![Bytecode](https://img.shields.io/badge/Bytecode-F0AD4E?style=for-the-badge&logo=bytedance&logoColor=white)
 ![Reflection](https://img.shields.io/badge/Reflection-5E5E5E?style=for-the-badge&logo=electron&logoColor=white)
 ![Netty](https://img.shields.io/badge/Netty-FF6347?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot-FF5733?style=for-the-badge&logo=spigot&logoColor=white)
+![Forge](https://img.shields.io/badge/Forge-28A745?style=for-the-badge&logo=forge&logoColor=white)
