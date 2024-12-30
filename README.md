@@ -1,3 +1,4 @@
+<img src="https://newizv.ru/attachments/003825eeb8b4bab5ef99071f828f5f1c7374455c/store/crop/0/0/1810/1018/500/0/0/2893d28c5cc972bcec8504b877ce563e67258d30371431aacaba7843efcf/1733438132601.webp" width="100%" height="30%" align="center" />
 ## Мой стек технологий
 
 ![Java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=buymeacoffee&logoColor=black)
