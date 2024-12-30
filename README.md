@@ -1,6 +1,6 @@
 ## Мой стек технологий
 
-![Java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=java&logoColor=black)
+![Java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=buymeacoffee&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-28A745?style=for-the-badge&logo=spring&logoColor=black)
 ![Hibernate](https://img.shields.io/badge/Hibernate-6C757D?style=for-the-badge&logo=hibernate&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=black)
