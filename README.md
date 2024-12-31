@@ -26,8 +26,8 @@
 
 
 ### 🛠️ Инструменты
-![IntelliJ IDEA](https://raw.githubusercontent.com/OptimusMac/images/refs/heads/main/IntelliJ_IDEA-white.svg?token=GHSAT0AAAAAAC2BBPMIHLEM3XS2TV5OQIXOZ3TZIKQ)
 
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" width="10%" style="display: block; margin-top: 10px; margin-bottom: 10px;" />
 
 <img src="https://github.com/elliottophellia/elliottophellia/blob/main/img/AboutMe-elaina.png?raw=true)" width="100%" style="display: block; margin-top: 10px; margin-bottom: 10px;" />
 
