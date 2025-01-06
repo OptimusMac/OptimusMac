@@ -24,10 +24,11 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/optimusmac_)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/optimusmac)
 
-
 ### 🛠️ Инструменты
 
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" width="10%" style="display: block; margin-top: 10px; margin-bottom: 10px;" />
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" width="100"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNr_vhN5AXHQgu4SdXWcM4vMQb75GagqzOEw&s" width="90">
+
+
 
 <img src="https://github.com/elliottophellia/elliottophellia/blob/main/img/AboutMe-elaina.png?raw=true)" width="100%" style="display: block; margin-top: 10px; margin-bottom: 10px;" />
 
