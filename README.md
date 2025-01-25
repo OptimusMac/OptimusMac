@@ -1,7 +1,7 @@
 <img src="https://a.storyblok.com/f/178900/750x422/562612ef4e/ac3c638965d4850ad6152c8f033b801d1675073361_main.jpg/m/filters:quality(95)format(webp)" width="100%" style="display: block; margin-top: 10px; margin-bottom: 10px;" />
 
 
-## Мой стек технологий
+## My tech stack
 
 ![Java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=buymeacoffee&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-28A745?style=for-the-badge&logo=spring&logoColor=black)
