@@ -26,7 +26,7 @@
 
 ### 🛠️ Tools
 
-<img src="https://icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" width="100"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNr_vhN5AXHQgu4SdXWcM4vMQb75GagqzOEw&s" width="90"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="90" style="margin-left: 10px">
+<img src="https://img.icons8.com/?size=256&id=61466&format=png" width="100"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNr_vhN5AXHQgu4SdXWcM4vMQb75GagqzOEw&s" width="90"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="90" style="margin-left: 10px">
 
 
 
