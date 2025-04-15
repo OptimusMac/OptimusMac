@@ -1,4 +1,4 @@
-<img src="https://a.storyblok.com/f/178900/750x422/562612ef4e/ac3c638965d4850ad6152c8f033b801d1675073361_main.jpg/m/filters:quality(95)format(webp)" width="100%" style="display: block; margin-top: 10px; margin-bottom: 10px;" />
+ы<img src="https://a.storyblok.com/f/178900/750x422/562612ef4e/ac3c638965d4850ad6152c8f033b801d1675073361_main.jpg/m/filters:quality(95)format(webp)" width="100%" style="display: block; margin-top: 10px; margin-bottom: 10px;" />
 
 
 ## My tech stack
@@ -13,7 +13,6 @@
 ![Spring Core](https://img.shields.io/badge/Spring%20Core-5BC0DE?style=for-the-badge&logo=spring&logoColor=black)
 ![Bytecode](https://img.shields.io/badge/Bytecode-F0AD4E?style=for-the-badge&logo=bytedance&logoColor=black)
 ![Reflection](https://img.shields.io/badge/Reflection-5E5E5E?style=for-the-badge&logo=electron&logoColor=black)
-![Netty](https://img.shields.io/badge/Netty-FF6347?style=for-the-badge&logo=dotnet&logoColor=black)
 ![Spigot](https://img.shields.io/badge/Spigot-FF5733?style=for-the-badge&logo=spigotmc&logoColor=black)
 ![Forge](https://img.shields.io/badge/Forge-28A745?style=for-the-badge&logo=condaforge&logoColor=black)
 
