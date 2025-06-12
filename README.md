@@ -32,6 +32,6 @@
 <img src="https://github.com/elliottophellia/elliottophellia/blob/main/img/AboutMe-elaina.png?raw=true)" width="100%" style="display: block; margin-top: 10px; margin-bottom: 10px;" />
 
 - **Name:** Sergey 👋  
-- **Age:** 22 years  
+- **Age:** 23 years  
 - **Experience:** 5 years in programming  
 - **Specialization:** Freelance Developer 💻
